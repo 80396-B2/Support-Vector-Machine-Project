@@ -1,5 +1,5 @@
 Alt Link for Notebook:-
-https://nbviewer.jupyter.org/github/kartikparashar786/Support-Vector-Machine-Project/blob/main/Support%20Vector%20Machine%20Project.ipynb
+https://nbviewer.jupyter.org/github/kartikparashar786/Support-Vector-Machine-Project/blob/main/Support%20Vector%20Machine%20Project.ipynb?flush_cache=True
 # **Support-Vector-Machine-Project**
 This Model is created using **SUPPORT VECTOR MACHINE** in PYTHON 3.9.
 The model is based on famous Iris data set and the prediction of species with help of its features.
