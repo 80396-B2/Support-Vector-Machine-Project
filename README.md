@@ -15,4 +15,20 @@ The python libraries I used are-
 * Matplotlib
 * ScikitLearn
 # Data set
-  
+Data Set is the famous Iris flower data set.
+The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by Sir Ronald Fisher in the 1936 as an example of discriminant analysis.
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters
+
+
+
+
+
+
+# Links
+* Linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
+* Gmail- kartikgparashar786@gmail.com
+* Kaggle - https://www.kaggle.com/kartikparashar 
+* HackerRank- https://www.hackerrank.com/Blu_Dragon
+* This Repo- 
+
+Made by-Kartik Parashar   
